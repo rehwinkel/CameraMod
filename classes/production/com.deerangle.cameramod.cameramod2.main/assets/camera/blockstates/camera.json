@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "camera:camera",
+      "y": 180
+    },
+    "facing=south": {
+      "model": "camera:camera"
+    },
+    "facing=east": {
+      "model": "camera:camera",
+      "y": 270
+    },
+    "facing=west": {
+      "model": "camera:camera",
+      "y": 90
+    }
+  }
+}

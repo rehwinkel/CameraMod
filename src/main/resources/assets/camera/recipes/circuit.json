@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "RSR",
+    "G_G",
+    "RSR"
+  ],
+  "key": {
+    "_": {
+      "item": "minecraft:stone_pressure_plate"
+    },
+    "R": {
+      "item": "minecraft:redstone"
+    },
+    "G": {
+      "item": "minecraft:gold_ingot"
+    },
+    "S": {
+      "item": "minecraft:glowstone_dust"
+    }
+  },
+  "result": {
+    "item": "camera:circuit",
+    "count": 2
+  }
+}
